@@ -1,0 +1,15 @@
+body{
+    background-color: cornsilk ;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.coronaimg{
+    width: 350px;
+    margin-top: 40px;
+}
